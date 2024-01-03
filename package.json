@@ -1,0 +1,21 @@
+{
+  "name": "chaibeckend",
+  "version": "1.0.0",
+  "description": "a basic app to backend deploy",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node",
+    "chai",
+    "npm",
+    "express"
+  ],
+  "author": "mohit soni",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2"
+  }
+}
